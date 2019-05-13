@@ -104,9 +104,9 @@ code{ color: #0a3d62; text-transform: uppercase; font-weight: 500; font-style: i
 .step-ex28{ background-image: url('../images/ex28.png');}
 
 /* Segmentation*/
-.step-seg1{ background-image: url('../images/seg1.png');}
-.step-seg2{ background-image: url('../images/seg2.png');}
-.step-seg3{ background-image: url('../images/seg3.png');}
+.step-seg1{ background-image: url('../images/seg1.PNG');}
+.step-seg2{ background-image: url('../images/seg2.PNG');}
+.step-seg3{ background-image: url('../images/seg3.PNG');}
 
 /*schedule campaign date*/
 .step-schd1{ background-image: url('../images/launchs1.png');}
