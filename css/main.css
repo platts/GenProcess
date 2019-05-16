@@ -123,7 +123,14 @@ code{ color: #0a3d62; text-transform: uppercase; font-weight: 500; font-style: i
 .step-vet8{ background-image: url('../images/vets8.PNG');}
 
 
-
+.step-cta1{ background-image: url('../images/cta1.png');}
+.step-cta2{ background-image: url('../images/cta2.png');}
+.step-cta3{ background-image: url('../images/cta3.png');}
+.step-cta4{ background-image: url('../images/cta4.png');}
+.step-cta5{ background-image: url('../images/cta5.png');}
+.step-cta6{ background-image: url('../images/cta6.png');}
+.step-cta7{ background-image: url('../images/cta7.png');}
+.step-cta8{ background-image: url('../images/cta8.png');}
 
 @media only screen and (max-width: 768px) {
 	.mar768{margin-top:5px; margin-bottom: 5px;}
